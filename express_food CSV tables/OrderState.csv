@@ -1,0 +1,8 @@
+﻿idOrderState	orderState	orderStateDescritption	stateStartTime	stateEndTime	stateAverageComputedTime
+6	CancelledOrder	""			
+7	AssigningOrder	""			
+8	PreparingOrder	""			
+11	OrderInDelivery	""			
+12	OrderDeliveryComplete	""			
+18	PaymentFailed	""			
+19	PaymentConfirmed	""			

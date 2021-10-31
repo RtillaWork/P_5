@@ -1,0 +1,7 @@
+﻿idRole	roleName	roleDescription
+0	Anonymous	Guest or anonymous user
+1	RegisteredCustomer	Registered Customer
+2	DeliveryEmployee	Delivery employee
+3	Chef	Chef
+4	Admin	 admin Main
+5	Manager	Mgmt

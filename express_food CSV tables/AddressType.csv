@@ -1,0 +1,7 @@
+﻿idAddressType	AddressType	AddressDescription
+0	UnknownAddress	Unknown or undetermined address
+1	MainResidence	Main Residence
+2	OtherResidence	Other Residence
+4	HomeAddress	Home address
+5	WorkAddress	Work address
+6	DeliveryAddress	Delivery address

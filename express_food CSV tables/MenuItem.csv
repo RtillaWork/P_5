@@ -1,0 +1,13 @@
+﻿idMenuItem	idChef	type	name	details	isAvailable	preparationDate	price
+1	0	MainDish		Molecular			25
+2	0	MainDish		Terroir	01		10
+3	0	MainDish		Vegetarian	01		12
+4	0	DessertDish		""	01		13
+5	0	DessertDish		Molecular	01		14
+6	0	RegularDish		Vegetarian	01		7
+7	0	RegularDish		Pizza	01		7
+8	0	RegularDish		Hummus	01		14
+9	0	RegularDish		Couscous	01		12
+10	0	RegularDish		Shawarma			10
+11	0	RegularDish		Noodle Soup	01		
+12	0	RegularDish		Pasta	01		

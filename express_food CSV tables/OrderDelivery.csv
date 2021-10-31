@@ -1,0 +1,10 @@
+﻿idOrderDelivery	idDeliveryEmployee	idAddress	idOrderState	comments
+1	8	1	11	""
+2	15	2	11	Delivery in progress atm...
+3	9	2	12	""
+4	13	4	12	""
+5	13	5	12	""
+6	9	7	8	""
+7	15	8	18	Need to call client
+8	14	3	12	Gotham Neighborhood. Please call for directions
+9	8	6	8	""
